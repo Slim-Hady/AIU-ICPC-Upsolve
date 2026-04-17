@@ -45,8 +45,8 @@ void solve() {
 }
 
 int main() {
-    SlimHady
-
+    SlimHady // fast input and output
+  // reading input from files and output reslut to file
     #ifndef ONLINE_JUDGE
         freopen("in.txt", "r", stdin);
         freopen("out.txt", "w", stdout);
